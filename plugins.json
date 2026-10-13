@@ -1,12 +1,12 @@
 {
   "plugins": [
     {
-      "name": "example.prx",
+      "name": "OrbisNet.sprx",
       "version": "1.0",
       "description": "يدعم ألعاب CUSA00001 وCUSA00002",
-      "author": "اسم المطوّر",
-      "urlDownload": "https://example.org/example.prx",
-      "url2downlouad": "https://example.org/helper.sprx"
+      "author": "Tevtongermany",
+      "urlDownload": "https://archive.org/download/orbis-net_202610/OrbisNet.sprx",
+      "url2downlouad": "false"
     }
   ]
 }
