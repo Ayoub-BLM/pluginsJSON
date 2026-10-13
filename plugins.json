@@ -11,16 +11,6 @@
       "installPath": "/data/GoldHEN/",
       "supportQR": "https://archive.org/download/orbis-net_20261013/OrbisNet.png",
       "QRtext": "OrbisNet discord Server"
-    },
-    {
-      "name": "OrbisNet.sprx",
-      "version": "1.0",
-      "description": "It is a fully recreated PSN Emulation, whkkdjfjkdkfdfdfsjgkdfdkfkkdfk  dat this means is that the account system has been recreated and all sort of calls to PSN are instead redirected to OrbisNet's Backend. Which is just a fake PSN and our own server so nothing touches PSN's actual servers.",
-      "author": "Tevtongermany",
-      "urlDownload": "https://archive.org/download/orbis-net_202610/OrbisNet.sprx",
-      "url2downlouad": false,
-      "supportQR": "https://archive.org/download/qrcode_413966106_04ed95c0c7ac7d82d3e3de14ff14bfa2/qrcode_413966106_04ed95c0c7ac7d82d3e3de14ff14bfa2.png",
-      "QRtext": "OrbisNet discord Server"
     }
   ]
 }
