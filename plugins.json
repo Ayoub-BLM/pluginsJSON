@@ -1,22 +1,12 @@
 {
-  "plugins": [
-    {
-      "name": "OrbisNet.sprx",
-      "version": "1.0",
-      "description": "OrbisNet plugin",
-      "author": "Tevtongermany",
-      "urlDownload": "https://archive.org/download/orbis-net_202610/OrbisNet.sprx",
-      "url2downlouad": false,
-      "supportQR": "https://archive.org/download/orbis-net_20261013/OrbisNet.png",
-      "QRtext": "OrbisNet discord Server"
-    },
-    {
-      "name": "CyberTV.sprx",
-      "version": "1.0.3",
-      "description": "CyberTV plugin package",
-      "author": "CyberTV",
-      "packageUrl": "https://archive.org/download/cyber-tv-ps-4-1.0.3/CyberTV_PS4-1.0.3.zip",
-      "installPath": "CyberTV"
-    }
-  ]
+  "name": "OrbisNet.sprx",
+  "version": "1.0",
+  "description": "OrbisNet plugin and companion files",
+  "author": "Tevtongermany",
+  "urlDownload": "https://archive.org/download/orbis-net_202610/OrbisNet.sprx",
+  "url2downlouad": false,
+  "packageUrl": "https://example.org/OrbisNet-support-files.zip",
+  "installPath": "/data/GoldHEN/plugins/OrbisNet",
+  "supportQR": "https://archive.org/download/orbis-net_20261013/OrbisNet.png",
+  "QRtext": "OrbisNet discord Server"
 }
