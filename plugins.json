@@ -1,15 +1,12 @@
 {
-  {
   "plugins": [
     {
       "name": "example.prx",
       "version": "1.0",
-      "description": "يدعم ألعاب  sssCUSA00001 وCUSA00002",
+      "description": "يدعم ألعاب CUSA00001 وCUSA00002",
       "author": "اسم المطوّر",
       "urlDownload": "https://example.org/example.prx",
       "url2downlouad": "https://example.org/helper.sprx"
     }
   ]
 }
-}
-
