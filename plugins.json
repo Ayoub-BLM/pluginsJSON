@@ -15,7 +15,7 @@
     {
       "name": "orbx.prx",
       "version": "1.4.7",
-      "description": "",
+      "description": "Advanced mod engine supporting DLC activation and file replacement. Compatible with US (CUSA00419) and EU (CUSA00411) regions across updates: 1.00, 1.32, 1.38, 1.46, 1.47, 1.48, 1.49, 1.50, 1.51, 1.52, 1.53, 1.55, and 1.56.",
       "author": "rfoodxmodz",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/orbx.prx",
       "url2downlouad": false,
