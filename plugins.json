@@ -35,6 +35,18 @@
       "installPath": "/data/",
       "supportQR": "https://archive.org/download/velora_202610/Velora.png",
       "QRtext": "Velora discord server"
+    },
+    {
+      "name": "gtav_60fps.prx",
+      "version": "1.00",
+      "description": "A custom plugin for jailbroken PS4 consoles designed to unlock GTA V's default framerate cap and target up to 60 Frames Per Second (60 FPS), delivering significantly smoother performance and gameplay responsiveness.",
+      "author": "-",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/gtav_60fps.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false,
+      "supportQR": "",
+      "QRtext": ""
     }
   ]
 }
