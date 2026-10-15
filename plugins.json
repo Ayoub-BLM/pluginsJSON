@@ -23,6 +23,18 @@
       "installPath": "/data/",
       "supportQR": "https://archive.org/download/orbex-support/OrbexSupport.png",
       "QRtext": "Oysters Discord Server"
+    },
+    {
+      "name": "Velora.sprx",
+      "version": "1.4",
+      "description": "",
+      "author": "Il Divino Glade",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora.sprx",
+      "url2downlouad": false,
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora.zip",
+      "installPath": "/data/",
+      "supportQR": "https://archive.org/download/Velora/Velora.png",
+      "QRtext": "Velora discord server"
     }
   ]
 }
