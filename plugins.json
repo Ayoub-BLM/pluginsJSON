@@ -7,8 +7,8 @@
       "author": "Tevtongermany",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/OrbisNet.sprx",
       "url2downlouad": false,
-      "packageUrl": false,
-      "installPath": false,
+      "packageUrl": "false",
+      "installPath": "false",
       "supportQR": "https://archive.org/download/orbis-net_20261013/OrbisNet.png",
       "QRtext": "OrbisNet Discord Server"
     }
