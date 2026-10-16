@@ -11,6 +11,16 @@
       "installPath": "false"
     },
     {
+      "name": "game_patch.prx",
+      "version": "1.00",
+      "description": "A custom PS4 plugin that automatically reads and applies XML game patches at launch, enabling 60 FPS unlocks and performance tweaks. Patches path: /data/GoldHEN/patches/xml/",
+      "author": "-",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/game_patch.prx",
+      "url2downlouad": false,
+      "packageUrl": "false",
+      "installPath": "false"
+    },
+    {
       "name": "OrbisNet.sprx",
       "version": "6.0",
       "description": "It is a fully recreated PSN Emulation, what this means is that the account system has been recreated and all sort of calls to PSN are instead redirected to OrbisNet's Backend. Which is just a fake PSN and our own server so nothing touches PSN's actual servers, To use it, you need to create an account on their Discord server",
