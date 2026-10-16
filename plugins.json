@@ -65,7 +65,7 @@
     {
       "name": "LSOPlugin.prx",
       "version": "1.00",
-      "description": "To play GTA V Online on a private server, you need to join the Discord server to create an account and obtain your token.In the BlueSphere bot, run /loginToken to get your bluesphere.txt.Place it at /data/bluesphere/bluesphere.txt.",
+      "description": "To play GTA V Online on a private server, you need to join the Discord server to create an account and obtain your token.In the BlueSphere bot, run /loginToken to get your TOKEN ",
       "author": "-",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/LSOPlugin.prx",
       "url2downlouad": false,
