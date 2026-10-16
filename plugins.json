@@ -71,7 +71,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/bluesphere.zip",
       "installPath": "/data/",
-      "supportQR": "https://archive.org/download/lso-server/LsoServer.png",
+      "supportQR": "https://archive.org/download/LSOserver/LSOserver.png",
       "QRtext": "Lso discord server",
       "tokenEnabled": true,
       "tokenPath": "/data/bluesphere/bluesphere.txt"
