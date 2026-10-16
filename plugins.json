@@ -115,7 +115,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ElysiumKey.txt",
       "installPath": "/data/",
-      "supportQR": "https://dn710406.ca.archive.org/0/items/elysium-net/ElysiumNet.png",
+      "supportQR": "https://archive.org/download/elysium-net/ElysiumNet.png",
       "QRtext": "ElysiumNet Web-site",
       "tokenEnabled": true,
       "tokenPath": "/data/ElysiumKey.txt"
