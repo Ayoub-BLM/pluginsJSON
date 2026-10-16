@@ -34,7 +34,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora.zip",
       "installPath": "/data/",
-      "supportQR": "https://archive.org/download/velora_202610/Velora.png",
+      "supportQR": "https://archive.org/download/velora_20261016/velora.png",
       "QRtext": "Velora discord server"
     },
     {
@@ -47,7 +47,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora1.2+LUA/Velora.zip",
       "installPath": "/data/",
-      "supportQR": "https://archive.org/download/velora_202610/Velora.png",
+      "supportQR": "https://archive.org/download/velora_20261016/velora.png",
       "QRtext": "Velora discord server"
     },
     {
