@@ -75,6 +75,16 @@
       "QRtext": "Lso discord server",
       "tokenEnabled": true,
       "tokenPath": "/data/bluesphere/bluesphere.txt"
+    },
+    {
+      "name": "afr.prx",
+      "version": "1.00",
+      "description": "An essential PS4 plugin that hooks into the game at startup to dynamically replace and modify game files on the fly, enabling seamless installation of major game mods (such as Souls and Capcom game mods).How to use:To find the original game files, the game must be running, then navigate to:/mnt/sandbox/[Game_CUSA]_00/app0 ;Place the files you want to replace inside your plugin directory path: data/GoldHEN/AFR/[Game_CUSA]/",
+      "author": "-",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/afr.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
     }
   ]
 }
