@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "aio_fix_505.prx",
-      "version": "-",
+      "version": "1.00",
       "description": "d",
       "author": "-",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/aio_fix_505.prx"
