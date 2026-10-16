@@ -37,6 +37,18 @@
       "QRtext": "Velora discord server"
     },
     {
+      "name": "Velora.sprx",
+      "version": "1.2",
+      "description": "Velora is a free mod menu of GTA5 built to bring you excitement, freshness, and protection — updated regularly so there’s always something new to discover. It’s not just a tool; it’s an experience. Compatible with US (CUSA00419) and EU (CUSA00411) regions across update 1.56 ",
+      "author": "Il Divino Glade",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora1.2+LUA/Velora.sprx",
+      "url2downlouad": false,
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Velora1.2+LUA/Velora.zip",
+      "installPath": "/data/",
+      "supportQR": "https://archive.org/download/velora_202610/Velora.png",
+      "QRtext": "Velora discord server"
+    },
+    {
       "name": "gtav_60fps.prx",
       "version": "1.00",
       "description": "A custom plugin for jailbroken PS4 consoles designed to unlock GTA V's default framerate cap and target up to 60 Frames Per Second (60 FPS), delivering significantly smoother performance and gameplay responsiveness.",
