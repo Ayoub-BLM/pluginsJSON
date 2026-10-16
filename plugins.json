@@ -105,6 +105,20 @@
       "url2downlouad": false,
       "packageUrl": false,
       "installPath": false
+    },
+    {
+      "name": "ElysiumNet.prx",
+      "version": "1.00",
+      "description": "A custom PS4 plugin that connects to the Elysium Net private server network. To use it, you need to log in to the website with your account, go to the Dashboard, navigate to Plugin, and check 'our Elysium Code' to get your token.",
+      "author": "TMP",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ElysiumNet.prx",
+      "url2downlouad": false,
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ElysiumKey.txt",
+      "installPath": "/data/",
+      "supportQR": "https://archive.org/download/LSOserver/LSOserver.png",
+      "QRtext": "ElysiumNet Web-site",
+      "tokenEnabled": true,
+      "tokenPath": "/data/ElysiumKey.txt"
     }
   ]
 }
