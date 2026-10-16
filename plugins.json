@@ -3,7 +3,7 @@
     {
       "name": "aio_fix_505.prx",
       "version": "1.00",
-      "description": "d",
+      "description": "is a custom PS4 homebrew plugin designed for firmware 5.05 to fix and resolve exploit compatibility issues—such as WebKit and PSFree vulnerabilities—ensuring system stability and smoother execution.",
       "author": "-",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/aio_fix_505.prx"
       "url2downlouad": false,
