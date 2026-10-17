@@ -8,7 +8,9 @@
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/aio_fix_505.prx",
       "url2downlouad": false,
       "packageUrl": "false",
-      "installPath": "false"
+      "installPath": "false",
+      "supportQR": "https://github.com/Ayoub-BLM/pluginsJSON/blob/main/plugins.json",
+      "QRtext": "Test QR"
     },
     {
       "name": "game_patch.prx",
