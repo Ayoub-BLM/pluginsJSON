@@ -25,8 +25,8 @@
     {
       "name": "OrbisNet.sprx",
       "version": "6.0",
-      "description": "It is a fully recreated PSN Emulation, what this means is that the account system has been recreated and all sort of calls to PSN are instead redirected to OrbisNet's Backend. Which is just a fake PSN and our own server so nothing touches PSN's actual servers, To use it, you need to create an account on their Discord server",
-      "descriptionAr": "إنه محاكاة كاملة لشبكة بلايستيشن (PSN)؛ وهذا يعني أنه قد تمت إعادة بناء نظام الحسابات، بحيث يتم توجيه جميع الطلبات التي كانت تُرسل إلى شبكة بلايستيشن نحو البنية التحتية لـ OrbisNet. وبما أن هذا النظام عبارة عن محاكاة لشبكة بلايستيشن تعمل عبر خوادمنا الخاصة، فلا يوجد أي اتصال بخوادم بلايستيشن الفعلية. وللاستفادة من هذه الخدمة، يلزمك إنشاء حساب عبر خادم Discord الخاص بهم.",
+      "description": "A fully recreated PSN emulation that redirects all PSN calls to OrbisNet's backend server, keeping everything away from actual PSN servers. To use it, you need to create an account on their Discord server.",
+      "descriptionAr": "نظام محاكاة كامل لشبكة PSN يقوم بتحويل جميع الاتصالات إلى خادم بديل Backend خاص بـ OrbisNet بعيداً عن خوادم بلايستيشن الحقيقية. لاستخدامه، يلزم إنشاء حساب عبر خادم الديسكورد الخاص بهم.",
       "author": "Tevtongermany",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/OrbisNet.sprx",
       "url2downlouad": false,
