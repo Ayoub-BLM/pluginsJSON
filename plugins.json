@@ -8,9 +8,7 @@
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/aio_fix_505.prx",
       "url2downlouad": false,
       "packageUrl": "false",
-      "installPath": "false",
-      "supportQR": "https://github.com/Ayoub-BLM/pluginsJSON/blob/main/plugins.json",
-      "QRtext": "Test QR"
+      "installPath": "false"
     },
     {
       "name": "game_patch.prx",
@@ -31,7 +29,7 @@
       "url2downlouad": false,
       "packageUrl": "false",
       "installPath": "false",
-      "supportQR": "https://archive.org/download/orbis-net_20261016/OrbisNet.png",
+      "supportQR": "https://discord.gg/ZJ5S4tHHWV",
       "QRtext": "OrbisNet Discord Server"
     },
     {
@@ -43,7 +41,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/orbx.zip",
       "installPath": "/data/",
-      "supportQR": "https://archive.org/download/Oystres/Oystres.png",
+      "supportQR": "https://discord.gg/n3bpKdzu4U",
       "QRtext": "Oysters Discord Server"
     },
     {
@@ -117,7 +115,7 @@
       "url2downlouad": false,
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ElysiumKey.txt",
       "installPath": "/data/",
-      "supportQR": "https://archive.org/download/elysium-net/ElysiumNet.png",
+      "supportQR": "https://elysiumnet.live/",
       "QRtext": "ElysiumNet Web-site",
       "tokenEnabled": true,
       "tokenPath": "/data/ElysiumKey.txt"
