@@ -151,6 +151,17 @@
       "url2downlouad": false,
       "packageUrl": false,
       "installPath": false
+    },
+    {
+      "name": "RaiDougie-Design.prx",
+      "version": "1.00",
+      "description": "A custom GTA V mod menu for jailbroken PS4 consoles featuring an easy-to-use interface. Compatible with US (CUSA00419) and EU (CUSA00411) regions across update 1.65. Works in both Story Mode and Online, but requires the accompanying online files to be installed for online features.",
+      "descriptionAr": "مود منيو مخصص للعبة GTA V على أجهزة PS4 المهكرة بواجهة استخدام سهلة. متوافق مع النسختين الأمريكية (CUSA00419) والأوروبية (CUSA00411) على التحديث 1.65. يعمل في وضع القصة والأونلاين، ويحتاج لتثبيت ملفات الأونلاين المرفقة معه لتعمل ميزات الأونلاين بشكل صحيح.",
+      "author": "RaiDougie",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/RaiDougie-Design.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
     }
   ]
 }
