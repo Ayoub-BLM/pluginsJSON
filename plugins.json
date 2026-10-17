@@ -120,5 +120,25 @@
       "tokenEnabled": true,
       "tokenPath": "/data/ElysiumKey.txt"
     }
+    {
+      "name": "force_1080p_display.prx",
+      "version": "1.00",
+      "description": "A custom PS4 plugin that forces games to display and output at a fixed 1080p resolution, helping to improve performance and framerate stability in titles with dynamic or higher default resolutions.",
+      "author": "illusion",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/force_1080p_display.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
+    },
+    {
+      "name": "force_30_fps.prx",
+      "version": "1.00",
+      "description": "A custom PS4 plugin that forces games to run at a locked 30 Frames Per Second (30 FPS) cap, eliminating framerate fluctuations and delivering a smoother, more consistent gameplay experience in demanding titles.",
+      "author": "illusion",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/force_30_fps.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
+    }
   ]
 }
