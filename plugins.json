@@ -119,7 +119,7 @@
       "QRtext": "ElysiumNet Web-site",
       "tokenEnabled": true,
       "tokenPath": "/data/ElysiumKey.txt"
-    }
+    },
     {
       "name": "force_1080p_display.prx",
       "version": "1.00",
