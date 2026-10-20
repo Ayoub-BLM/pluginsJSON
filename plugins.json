@@ -166,8 +166,8 @@
     {
       "name": "vcfg_classic42.prx",
       "version": "2.23",
-      "description": "VCFG (vibe coded frame generator): optical-flow frame generation for games on PS4 consoles running the GoldHEN homebrew enabler, as a GoldHEN plugin. The plugin hooks the game's frame submission, builds a motion field between the previous and the current game frame on the GPU, synthesises an in-between image and presents it before the real frame: a 30 fps game is shown at 60 Hz.",
-      "descriptionAr": "VCFG (اختصار لـ Vibe Coded Frame Generator): أداة لتوليد الإطارات باستخدام تقنية التدفق البصري (optical flow) مخصصة لألعاب منصات PS4 التي تستخدم برنامج GoldHEN (المخصص لتشغيل البرمجيات غير الرسمية/homebrew)؛ حيث تعمل هذه الأداة كإضافة (plugin) لـ GoldHEN. تقوم الإضافة باعتراض عملية إرسال الإطارات الخاصة باللعبة، وتنشئ حقل حركة (motion field) بين الإطار السابق والإطار الحالي داخل وحدة معالجة الرسومات (GPU)، ثم تولد صورة بينية (in-between image) وتعرضها قبل الإطار الأصلي؛ وبذلك تظهر الألعاب التي تعمل بمعدل 30 إطاراً في الثانية (fps) بمعدل 60 إطاراً في الثانية (60 Hz).",
+      "description": "vibe coded frame generator: optical-flow frame generation for games on PS4 . The plugin hooks the game's frame submission, builds a motion field between the previous and the current game frame on the GPU, synthesises an in-between image and presents it before the real frame: a 30 fps game is shown at 60 Hz.",
+      "descriptionAr": "Vibe Coded Frame Generator: أداة لتوليد الإطارات باستخدام تقنية التدفق البصري  مخصصة لألعاب منصات PS4 التي تستخدم برنامج  . تقوم الإضافة باعتراض عملية إرسال الإطارات الخاصة باللعبة، وتنشئ حقل حركة  بين الإطار السابق والإطار الحالي داخل وحدة معالجة الرسومات (GPU)، ثم تولد صورة بينية  وتعرضها قبل الإطار الأصلي؛ وبذلك تظهر الألعاب التي تعمل بمعدل 30 إطاراً في الثانية (fps) بمعدل 60 إطاراً في الثانية (60 Hz).",
       "author": "VCFG",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg_classic42.prx",
       "url2downlouad": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg16.prx",
