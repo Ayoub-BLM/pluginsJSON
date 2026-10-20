@@ -162,6 +162,19 @@
       "url2downlouad": false,
       "packageUrl": false,
       "installPath": false
+    },
+    {
+      "name": "vcfg_classic42.prx",
+      "version": "2.23",
+      "description": "A custom GTA V mod menu for jailbroken PS4 consoles featuring an easy-to-use interface. Compatible with US (CUSA00419) and EU (CUSA00411) regions across update 1.65. Works in both Story Mode and Online, but requires the accompanying online files to be installed for online features.",
+      "descriptionAr": "مود منيو مخصص للعبة GTA V على أجهزة PS4 المهكرة بواجهة استخدام سهلة. متوافق مع النسختين الأمريكية (CUSA00419) والأوروبية (CUSA00411) على التحديث 1.65. يعمل في وضع القصة والأونلاين، ويحتاج لتثبيت ملفات الأونلاين المرفقة معه لتعمل ميزات الأونلاين بشكل صحيح.",
+      "author": "VCFG",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg_classic42.prx",
+      "url2downlouad": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg16.prx",
+      "packageUrl": false,
+      "installPath": false,
+      "supportQR": "https://discord.gg/k7W9vMHtaw",
+      "QRtext": "VCFG discord server"
     }
   ]
 }
