@@ -24,7 +24,7 @@
     },
     {
       "name": "OrbisNet.sprx",
-      "version": "6.1",
+      "version": "6.2",
       "description": "A fully recreated PSN emulation that redirects all PSN calls to OrbisNet's backend server, keeping everything away from actual PSN servers. To use it, you need to create an account on their Discord server.",
       "descriptionAr": "نظام محاكاة كامل لشبكة PSN يقوم بتحويل جميع الاتصالات إلى خادم بديل Backend خاص بـ OrbisNet بعيداً عن خوادم بلايستيشن الحقيقية. لاستخدامه، يلزم إنشاء حساب عبر خادم الديسكورد الخاص بهم.",
       "author": "Tevtongermany",
