@@ -175,6 +175,17 @@
       "installPath": false,
       "supportQR": "https://discord.gg/k7W9vMHtaw",
       "QRtext": "VCFG discord server"
+    },
+    {
+      "name": "Sheriff-132v106.prx",
+      "version": "1.06",
+      "description": "A custom mod menu for Red Dead Redemption 2 (Update 1.32), easily activated in-game by pressing (L1 + Square)",
+      "descriptionAr": "مود منيو مخصص للعبة Red Dead Redemption 2 )تحديث 1.32(، يتم تفعيله داخل اللعبة عبر الضغط على )L1 + مربع(",
+      "author": "-",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Sheriff-132v106.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
     }
   ]
 }
