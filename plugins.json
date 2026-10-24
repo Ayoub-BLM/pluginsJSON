@@ -197,6 +197,34 @@
       "url2downlouad": false,
       "packageUrl": false,
       "installPath": false
+    },
+    {
+      "id": "Ozark.sprx1.56",
+      "name": "Ozark.sprx",
+      "version": "1.00",
+      "description": "GTA V Mod Menu (Update 1.65): Players list (Rank, Cash, Bank, K/D), full settings, network protection, off-radar, outfit protection, passive mode, fast respawn, anti-AFK, and ladder/waypoint fixes.",
+      "descriptionAr": "مود منيو GTA V تحديث )1.56(: قائمة لاعبين )الرتبة، الكاش، البنك، K/D(، إعدادات كاملة، حماية شبكية، إخفاء رادار، حماية الملابس، وضع سلبي، رسباون سريع، منع الخمول، وإصلاح السلالم والماركر",
+      "author": "Ventura",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.56/Ozark.sprx",
+      "url2downlouad": false,
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.56/ozark.zip",
+      "installPath": "/data/",
+      "supportQR": "https://discord.gg/7r9CD2DWQB",
+      "QRtext": "GTA Reborn discord server"
+    },
+    {
+      "id": "Ozark.sprx1.57",
+      "name": "Ozark.sprx",
+      "version": "1.4",
+      "description": "GTA V Mod Menu (Update 1.67): Players list (Rank, Cash, Bank, K/D), full settings, network protection, off-radar, outfit protection, passive mode, fast respawn, anti-AFK, and ladder/waypoint fixes.",
+      "descriptionAr": "مود منيو GTA V تحديث )1.57(: قائمة لاعبين )الرتبة، الكاش، البنك، K/D(، إعدادات كاملة، حماية شبكية، إخفاء رادار، حماية الملابس، وضع سلبي، رسباون سريع، منع الخمول، وإصلاح السلالم والماركر",
+      "author": "Ventura",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.57/Ozark.sprx",
+      "url2downlouad": false,
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.57/ozark.zip",
+      "installPath": "/data/",
+      "supportQR": "https://discord.gg/7r9CD2DWQB",
+      "QRtext": "GTA Reborn discord server"
     }
   ]
 }
