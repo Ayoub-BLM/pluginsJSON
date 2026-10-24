@@ -186,6 +186,17 @@
       "url2downlouad": false,
       "packageUrl": false,
       "installPath": false
+    },
+    {
+      "name": "Sheriff129104.prx",
+      "version": "1.04",
+      "description": "A custom mod menu for Red Dead Redemption 2 (Update 1.29), easily activated in-game by pressing (L1 + Square)",
+      "descriptionAr": "مود منيو مخصص للعبة Red Dead Redemption 2 )تحديث 1.29(، يتم تفعيله داخل اللعبة عبر الضغط على )L1 + مربع(",
+      "author": "-",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Sheriff129104.prx",
+      "url2downlouad": false,
+      "packageUrl": false,
+      "installPath": false
     }
   ]
 }
