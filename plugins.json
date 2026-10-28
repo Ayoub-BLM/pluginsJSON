@@ -33,7 +33,10 @@
       "packageUrl": "false",
       "installPath": "false",
       "supportQR": "https://discord.gg/ZJ5S4tHHWV",
-      "QRtext": "OrbisNet Discord Server"
+      "QRtext": "OrbisNet Discord Server",
+      "tokenEnabled": true,
+      "tokenPath": "/data/OrbisNet/config.json",
+      "tokenKey": "authentication.username"
     },
     {
       "name": "orbx.prx",
