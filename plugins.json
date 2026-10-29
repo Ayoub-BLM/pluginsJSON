@@ -225,6 +225,19 @@
       "installPath": "/data/",
       "supportQR": "https://discord.gg/7r9CD2DWQB",
       "QRtext": "GTA Reborn discord server"
+    },
+    {
+      "name": "Oxagon_156.prx",
+      "version": "1.0",
+      "description": "GTA 5 mod menu for versions 1.56 and 1.53, featuring C++ script execution in the game and other features to discover on your own. As a note, if your update is 1.56, enable Oxagon_156.prx, and if your update is 1.53, enable Oxagon_153.prx",
+      "descriptionAr": "مود منيو للعبة GTA5 اصدار 1.56 و 1.53 يتميز بتشغيل سكربتات على اللعبة بلغة C++ و مميزات اخرى اكتشفها بنفسك , وكملاحظة اذا تحديثك 1.56 فعل Oxagon_156.prx واذا تحديثك 1.53 فعل Oxagon_153.prx",
+      "author": "rfoodxmodz",
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Oxagon_156.prx",
+      "url2downlouad": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Oxagon_153.prx",
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Oxagon.zip",
+      "installPath": "/data/",
+      "supportQR": "https://discord.gg/n3bpKdzu4U",
+      "QRtext": "Oysters Discord Server"
     }
   ]
 }
