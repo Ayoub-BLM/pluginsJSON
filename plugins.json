@@ -149,7 +149,7 @@
       "author": "illusion",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/force_30_fps.prx",
       "url2downlouad": false,
-      "packageUrl": "https://github.com/Melnikoff07/vcfg/releases/download/v2.35/VCFG_v2.35.pkg",
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg",
       "installPath": "/data/"
     },
     {
@@ -196,7 +196,8 @@
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Sheriff129104.prx",
       "url2downlouad": false,
       "packageUrl": false,
-      "installPath": false
+      "installPath": false,
+      "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg"
     },
     {
       "id": "Ozark.sprx1.56",
