@@ -148,7 +148,7 @@
       "descriptionAr": "إضافة مخصصة لجهاز PS4 تفرض على الألعاب العمل بمعدل ثابت قدره 30 إطاراً في الثانية (30 FPS)، مما يزيل تذبذبات معدل الإطارات ويقدم تجربة لعب أكثر سلاسة واستقراراً في الألعاب التي تتطلب أداءً عالياً.",
       "author": "illusion",
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/force_30_fps.prx",
-      "url2downlouad": false,
+      "url2downlouad": "https://github.com/Melnikoff07/vcfg/releases/download/v2.35/VCFG_v2.35.pkg",
       "packageUrl": false,
       "installPath": false
     },
