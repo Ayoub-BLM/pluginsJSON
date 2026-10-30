@@ -174,7 +174,8 @@
       "packageUrl": false,
       "installPath": false,
       "supportQR": "https://discord.gg/k7W9vMHtaw",
-      "QRtext": "VCFG discord server"
+      "QRtext": "VCFG discord server",
+      "pkg": "https://github.com/Melnikoff07/vcfg/releases/download/v2.35/VCFG_v2.35.pkg"
     },
     {
       "name": "Sheriff-132v106.prx",
