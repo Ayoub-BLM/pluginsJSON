@@ -174,7 +174,8 @@
       "packageUrl": false,
       "installPath": false,
       "supportQR": "https://discord.gg/k7W9vMHtaw",
-      "QRtext": "VCFG discord server"
+      "QRtext": "VCFG discord server",
+      "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg"
     },
     {
       "name": "Sheriff-132v106.prx",
@@ -196,8 +197,7 @@
       "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/Sheriff129104.prx",
       "url2downlouad": false,
       "packageUrl": false,
-      "installPath": false,
-      "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg"
+      "installPath": false
     },
     {
       "id": "Ozark.sprx1.56",
