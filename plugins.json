@@ -129,7 +129,7 @@
       "QRtext": "ElysiumNet Web-site",
       "tokenEnabled": true,
       "tokenPath": "/data/ElysiumKey.txt",
-      "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg"
+      "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ElysiumInstaller.pkg"
     },
     {
       "name": "force_1080p_display.prx",
@@ -163,15 +163,15 @@
       "installPath": false
     },
     {
-      "name": "vcfg_classic42.prx",
-      "version": "2.23",
+      "name": "vcfg16.prx",
+      "version": "2.35",
       "description": "vibe coded frame generator: optical-flow frame generation for games on PS4 . The plugin hooks the game's frame submission, builds a motion field between the previous and the current game frame on the GPU, synthesises an in-between image and presents it before the real frame: a 30 fps game is shown at 60 Hz.",
       "descriptionAr": "Vibe Coded Frame Generator: أداة لتوليد الإطارات باستخدام تقنية التدفق البصري  مخصصة لألعاب منصات PS4 التي تستخدم برنامج  . تقوم الإضافة باعتراض عملية إرسال الإطارات الخاصة باللعبة، وتنشئ حقل حركة  بين الإطار السابق والإطار الحالي داخل وحدة معالجة الرسومات (GPU)، ثم تولد صورة بينية  وتعرضها قبل الإطار الأصلي؛ وبذلك تظهر الألعاب التي تعمل بمعدل 30 إطاراً في الثانية (fps) بمعدل 60 إطاراً في الثانية (60 Hz).",
       "author": "VCFG",
-      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg_classic42.prx",
-      "url2downlouad": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg16.prx",
-      "packageUrl": false,
-      "installPath": false,
+      "urlDownload": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg16.prx",
+      "url2downlouad": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg_classic51.prx",
+      "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/vcfg_alt_16.zip",
+      "installPath": "/data/GoldHEN",
       "supportQR": "https://discord.gg/k7W9vMHtaw",
       "QRtext": "VCFG discord server",
       "pkg": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/VCFG_v2.35.pkg"
