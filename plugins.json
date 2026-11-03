@@ -46,7 +46,8 @@
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/orbx.zip",
       "installPath": "/data/",
       "supportQR": "https://discord.gg/n3bpKdzu4U",
-      "QRtext": "Oysters Discord Server"
+      "QRtext": "Oysters Discord Server",
+      "sha256": "d8bc2fa7cc39906d314089479e719c68dd8ee04ba212f4613340e1eb427ad978"
     },
     {
       "id": "velora-1.5",
