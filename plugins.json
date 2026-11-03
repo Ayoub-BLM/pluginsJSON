@@ -212,7 +212,8 @@
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.56/ozark.zip",
       "installPath": "/data/",
       "supportQR": "https://discord.gg/7r9CD2DWQB",
-      "QRtext": "GTA Reborn discord server"
+      "QRtext": "GTA Reborn discord server",
+      "sha256": "101677e7c61f482e1fa50071c66c80510c182060a61f831f41e759a5208273ce"
     },
     {
       "id": "Ozark.sprx1.57",
@@ -226,7 +227,8 @@
       "packageUrl": "https://github.com/Ayoub-BLM/PS4plugins/raw/refs/heads/main/ozarkr1.57/ozark.zip",
       "installPath": "/data/",
       "supportQR": "https://discord.gg/7r9CD2DWQB",
-      "QRtext": "GTA Reborn discord server"
+      "QRtext": "GTA Reborn discord server",
+      "sha256": "ed1063406c7d8ae80dfd566a985bdf5604bd500d156860c7f8ee92383e2d06ca"
     },
     {
       "name": "Oxagon_156.prx",
