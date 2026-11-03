@@ -61,7 +61,7 @@
       "installPath": "/data/",
       "supportQR": "https://discord.gg/vawDCKG5EN",
       "QRtext": "Velora discord server",
-      "size": 1718289
+      "sha256": "e6e79ad27a87f2b7ea9d519167e5d9c48d096bdf1a17b2abf1de70c057bd2653"
     },
     {
       "id": "velora-1.2",
@@ -76,7 +76,7 @@
       "installPath": "/data/",
       "supportQR": "https://discord.gg/vawDCKG5EN",
       "QRtext": "Velora discord server",
-      "size": 882981
+      "sha256": "d50d1582a67d978e347692b3bce951262dd061a649e75410595ae36f9bec3823"
     },
     {
       "name": "gtav_60fps.prx",
